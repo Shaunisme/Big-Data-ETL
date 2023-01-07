@@ -39,3 +39,5 @@ For each dataset use the schema.sql file located in the Resources folder of the 
 #### Load the Data into an RDS Instance
 
 Export each DataFrame into the RDS instance to create four tables for each dataset.
+![screen shot of load](image/Snipaste_2023-01-08_03-14-12.png "load")
+
